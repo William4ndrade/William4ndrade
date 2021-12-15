@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+
 **William4ndrade/William4ndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=william4ndrade&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+</span>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william4ndrade&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
+</span>
