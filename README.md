@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <span align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william4ndrade&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
 </span>
+
+<a href="https://github.com/william4ndrade/william4ndrade.git"><img alt="WilliamActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=William4ndrade&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
